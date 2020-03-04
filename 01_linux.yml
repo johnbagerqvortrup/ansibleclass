@@ -10,4 +10,5 @@
   - name: Add line in file
     lineinfile:
       path: /root/testfile.txt
-      line: Ansible was here...
+      line: Ansible was here....
+      
