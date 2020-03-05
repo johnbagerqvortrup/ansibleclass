@@ -5,8 +5,8 @@
     esxihostname: "esxi.ansible.local"
     username: "userx@vsphere.local"
     password: "Password1!"
-    nfs_user: "userx"
-    portgroup_name: "vlan10x"
+    nfs_user: "user2"
+    portgroup_name: "vlan102"
     vlan_id: "10x"
   tasks:
   - name: Add NFS Storage ESXi
