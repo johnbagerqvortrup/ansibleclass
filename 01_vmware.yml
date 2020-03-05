@@ -7,7 +7,7 @@
     password: "Password1!"
     nfs_user: "user2"
     portgroup_name: "vlan102"
-    vlan_id: "10x"
+    vlan_id: "102"
   tasks:
   - name: Add NFS Storage ESXi
     vmware_host_datastore:
